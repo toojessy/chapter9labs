@@ -1,3 +1,6 @@
+// Jessica Kamienski
+// 10/22
+
 public class CoffeeOrder {
     // TODO 1: Change the class name to CoffeeOrder
 
