@@ -1,3 +1,6 @@
+// Jessica Kamienski
+// 10/22
+
 public class CoffeeShop {
     // TODO 1: Change the class name to CoffeeShop
 
